@@ -1,0 +1,48 @@
+{
+  "name": "bhgapp",
+  "version": "0.0.1",
+  "description": "BHG APP",
+  "productName": "BHG APP",
+  "author": "siliag <siliag@126.com>",
+  "private": true,
+  "scripts": {
+    "lint": "eslint --ext .js,.vue src",
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "dependencies": {
+    "@quasar/extras": "^1.9.5",
+    "axios": "^0.18.1",
+    "core-js": "3.0.0",
+    "quasar": "1.14.0",
+    "vue-i18n": "^8.0.0",
+    "yarn": "^1.21.1"
+  },
+  "devDependencies": {
+    "@quasar/app": "2.1.0",
+    "@vue/eslint-config-standard": "^4.0.0",
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.10.0",
+    "eslint-loader": "^2.1.1",
+    "eslint-plugin-vue": "^5.0.0",
+    "lodash": "^4.17.15",
+    "strip-ansi": "=3.0.1",
+    "workbox-webpack-plugin": "5.0.0"
+  },
+  "engines": {
+    "node": ">= 10.18.1",
+    "npm": ">= 6.13.4",
+    "yarn": ">= 1.21.1"
+  },
+  "browserslist": [
+    "ie >= 11",
+    "last 10 Chrome versions",
+    "last 10 Firefox versions",
+    "last 4 Edge versions",
+    "last 7 Safari versions",
+    "last 8 Android versions",
+    "last 8 ChromeAndroid versions",
+    "last 8 FirefoxAndroid versions",
+    "last 10 iOS versions",
+    "last 5 Opera versions"
+  ]
+}

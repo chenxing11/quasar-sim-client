@@ -1,0 +1,39 @@
+// ORDER
+export const GET_ORDERID = 'GET_ORDERID'
+export const CLEAR_ORDERID = 'CLEAR_ORDERID'
+export const GET_EXTTERNALNO = 'GET_EXTTERNALNO'
+export const CLEAR_EXTTERNALNO = 'CLEAR_EXTTERNALNO'
+export const GET_SHIPMENTID = 'GET_SHIPMENTID'
+export const CLEAR_SHIPMENTID = 'CLEAR_SHIPMENTID'
+
+// USER
+export const CHANGELOGIN = 'CHANGELOGIN'
+export const LOGINOUT = 'LOGINOUT'
+export const GET_REALNAME = 'GET_REALNAME'
+export const GET_USERNAME = 'GET_USERNAME'
+export const GET_GROUPS = 'GET_GROUPS'
+export const GET_ROLES = 'GET_ROLES'
+export const GET_AUTHS = 'GET_AUTHS'
+export const GET_LOCATIONS = 'GET_LOCATIONS'
+export const GET_LOCATION = 'GET_LOCATION'
+export const GET_PRINTER = 'GET_PRINTER'
+export const GET_STOREID = 'GET_STOREID'
+export const GET_STOCKTAKELOCATIONID = 'GET_STOCKTAKELOCATIONID'
+export const GET_STOCKTAKEID = 'GET_STOCKTAKEID'
+
+// OTHER
+export const ISRELOAD = 'ISRELOAD'
+
+// POP
+export const POP_SHOW = 'POP_SHOW'
+export const POP_MSG = 'POP_MSG'
+
+// BTN
+export const BTN_SHOW = 'BTN_SHOW'
+export const BTN_GO = 'BTN_GO'
+export const BTN_PAGE = 'BTN_PAGE'
+
+// HEDAER
+export const CHANGE_TITLE = 'CHANGE_TITLE'
+// RETURNFALSE
+export const RETURNFALSE = 'RETURNFALSE'
